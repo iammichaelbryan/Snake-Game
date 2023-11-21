@@ -4,6 +4,7 @@
 A classic Snake game implemented in Java with Swing.
 
 ## Introduction
+This project is a personal homage to the classic Snake Game, which I frequently played on my first phone, a Nokia 3100. Inspired by nostalgia and a desire to understand the mechanics behind the game, I decided to recreate it. This project not only allowed me to delve into game development but also helped me understand the intricacies of object-oriented programming and event-driven programming in Java.
 
 This project is a simple yet entertaining implementation of the classic Snake game. The player controls a snake that moves around the screen, eating apples to grow longer while avoiding collisions with itself and the screen borders.
 
